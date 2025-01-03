@@ -1,5 +1,3 @@
-# main.py
-حسابة سن التقاعد
 #!/usr/bin/env python
 import tkinter as tk
 from tkinter import ttk, messagebox
